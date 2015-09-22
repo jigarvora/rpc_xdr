@@ -1,1 +1,1 @@
-# rpc_xdr
+A demonstration of using RPC in C

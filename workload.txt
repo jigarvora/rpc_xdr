@@ -1,0 +1,2 @@
+paraglider.jpg paraglider_small.jpg
+mountains.jpeg mountains_small.jpg
